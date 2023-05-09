@@ -1,0 +1,4 @@
+#Mon May 08 23:31:33 PKT 2023
+base.0=D\:\\chatapp\\chatapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

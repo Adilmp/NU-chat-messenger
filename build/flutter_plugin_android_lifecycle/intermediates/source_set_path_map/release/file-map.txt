@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-0 C:\Users\AdilMP\.gradle\caches\transforms-3\0dd0c516f32e639169823550fe3975de\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-1 C:\Users\AdilMP\.gradle\caches\transforms-3\a13f460850126637d83dc6866daf11f7\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-2 C:\Users\AdilMP\.gradle\caches\transforms-3\d9ef4068a4f60dc8914a6c82e1cde8b5\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-3 C:\Users\AdilMP\.gradle\caches\transforms-3\db03a6948067cf5c19904f89d2df1aee\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.14\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.14\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release

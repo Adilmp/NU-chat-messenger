@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-0 C:\Users\AdilMP\.gradle\caches\transforms-3\0dd0c516f32e639169823550fe3975de\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.3.2-1 C:\Users\AdilMP\.gradle\caches\transforms-3\4e0a47f132c1889949ad5cb4389f9097\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-2 C:\Users\AdilMP\.gradle\caches\transforms-3\a13f460850126637d83dc6866daf11f7\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.0.1-3 C:\Users\AdilMP\.gradle\caches\transforms-3\d2464b610f3c63ee3a1ee2120d63d7a8\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-4 C:\Users\AdilMP\.gradle\caches\transforms-3\d9ef4068a4f60dc8914a6c82e1cde8b5\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-5 C:\Users\AdilMP\.gradle\caches\transforms-3\db03a6948067cf5c19904f89d2df1aee\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.1.0-6 C:\Users\AdilMP\.gradle\caches\transforms-3\e3593b91afd54ce6513c9105dd38af1a\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.1.2\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.1.2\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 D:\chatapp\chatapp\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 D:\chatapp\chatapp\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 D:\chatapp\chatapp\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 D:\chatapp\chatapp\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 D:\chatapp\chatapp\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 D:\chatapp\chatapp\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 D:\chatapp\chatapp\build\firebase_storage\intermediates\merged_res\release

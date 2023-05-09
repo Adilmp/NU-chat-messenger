@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-0 C:\Users\AdilMP\.gradle\caches\transforms-3\0dd0c516f32e639169823550fe3975de\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-1 C:\Users\AdilMP\.gradle\caches\transforms-3\a13f460850126637d83dc6866daf11f7\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-2 C:\Users\AdilMP\.gradle\caches\transforms-3\d9ef4068a4f60dc8914a6c82e1cde8b5\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-3 C:\Users\AdilMP\.gradle\caches\transforms-3\db03a6948067cf5c19904f89d2df1aee\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-4.6.1\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\AdilMP\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-4.6.1\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 D:\chatapp\chatapp\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 D:\chatapp\chatapp\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 D:\chatapp\chatapp\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 D:\chatapp\chatapp\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 D:\chatapp\chatapp\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 D:\chatapp\chatapp\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 D:\chatapp\chatapp\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
