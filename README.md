@@ -1,4 +1,4 @@
-# chatapp
+# NU messenger
 
 A new Flutter project.
 
